@@ -18,12 +18,14 @@
       "type" : "Midterm",
       "name" : "Midterm Exam",
       "short_label" : "Midterm",
+      "min_count": 1,
       "weight" : 0.3
     },
     {
       "type" : "Final",
       "name" : "Final Exam",
       "short_label" : "Final",
+      "min_count": 1,
       "weight" : 0.4
     }
   ],
